@@ -1,3 +1,3 @@
 # HduReport
 
-Report files of HDU will be uploaded in this repository.
+Report files of HDU will be uploaded to this repository.
